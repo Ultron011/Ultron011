@@ -24,7 +24,7 @@ If you have any resources or recommendations, I'd love to hear them!
 
 ## 💼 Looking for Opportunities
 
-I'm actively seeking internship opportunities to apply my skills and gain hands-on experience in [specific areas of interest]. If you know of any opportunities or would like to collaborate on a project, please reach out!
+I'm actively seeking internship opportunities to apply my skills and gain hands-on experience in frontend web development. If you know of any opportunities or would like to collaborate on a project, please reach out!
 
 ## 📫 Get in Touch
 
