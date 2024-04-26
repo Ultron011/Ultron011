@@ -30,7 +30,6 @@ I'm actively seeking internship opportunities to apply my skills and gain hands-
 
 - Email: ultroninfinity01@gmail.com
 - LinkedIn: www.linkedin.com/in/saurabh-kumar-8642262a0
-- Twitter: [Your Twitter Handle]
 
 I'm always open to connecting with fellow developers, discussing new ideas, or just chatting about tech! Feel free to reach out—I'd love to hear from you.
 
