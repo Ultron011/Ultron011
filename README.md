@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Saurabh Kumar!
 
-I'm a passionate **coding enthusiast** and a **university student** working towards mastering programming, algorithms, and problem-solving skills. I'm constantly exploring new technologies, learning about data structures and algorithms, and contributing to open-source projects.
+I'm a passionate **coding enthusiast** and currently a **university student** working towards mastering programming, algorithms, and problem-solving skills. I'm constantly exploring new technologies, learning about data structures and algorithms, and contributing to open-source projects.
 
 🚀 Currently, I'm focused on improving my skills in **competitive programming** and **full-stack development** while diving into the world of **generative AI**. 
 
