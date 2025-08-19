@@ -1,37 +1,78 @@
-## 👋 Hi, I'm Saurabh Kumar!
-
-I'm a passionate **coding enthusiast** and currently a **student** working towards mastering programming, algorithms, and problem-solving skills. I'm constantly exploring new technologies, learning about data structures and algorithms, and contributing to open-source projects.
-
-🚀 Currently, I'm focused on improving my skills in **competitive programming** and **full-stack development** while diving into the world of **generative AI**. 
-
-### 📚 What I'm Learning:
-- **Data Structures & Algorithms**: Sharpening my problem-solving skills.
-- **Web Development**: Building full-stack applications with modern frameworks.
-- **Generative AI**: Exploring the potential of AI for creative coding projects.
-
-### 🌱 Currently working on:
-- Contributing to open-source projects on GitHub.
-- Participating in competitive programming contests.
-- Building my portfolio with full-stack applications.
-
-Feel free to check out my repositories and feel free to reach out if you have any questions or ideas for collaboration!
-
-✨ Let's code, learn, and grow together!
-
-## 🌐 Connect with me :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurabh_singh_rajput777) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-kumar-8642262a0) 
+<div align="center">
+  <img src="https://github.com/Ultron011/Ultron011/assets/3d-cube.gif" width="120" alt="3D Cube" />
+  <h1>Hi, I'm <span style="color:#00bfff;">Saurabh Kumar</span> 👋</h1>
+  <h3>🚀 Coding Enthusiast | Student | AI Explorer</h3>
+</div>
 
 ---
-# 💻 Tech Stack:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p align="center">
+  <img src="https://github.com/Ultron011/Ultron011/assets/3d-wave.svg" width="100%" alt="3D Wave" />
+</p>
+
+### 🧑‍💻 About Me
+- Passionate about **coding, algorithms, and problem-solving**
+- Exploring **generative AI** and **full-stack development**
+- Always learning, building, and collaborating
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ultron011&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ultron011&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron011&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 📚 What I'm Learning
+- <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-3D-blue?style=flat-square&logo=codeforces" /> Sharpening my problem-solving skills
+- <img src="https://img.shields.io/badge/Web%20Development-3D-green?style=flat-square&logo=react" /> Building full-stack apps
+- <img src="https://img.shields.io/badge/Generative%20AI-3D-purple?style=flat-square&logo=python" /> Creative coding with AI
+
+---
+
+### 🌱 Currently Working On
+- 🚀 Open-source contributions
+- 🏆 Competitive programming contests
+- 🛠️ Full-stack portfolio projects
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/saurabh_singh_rajput777"><img src="https://img.shields.io/badge/Instagram-3D-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/saurabh-kumar-8642262a0"><img src="https://img.shields.io/badge/LinkedIn-3D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,redux,html,css,sass,tailwind" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultron011&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ultron011&theme=vision-friendly-dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron011&theme=vision-friendly-dark&hide_border=false&layout=compact" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ultron011&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ultron011&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ultron011&label=Profile%20views&color=0e75b6&style=flat" alt="ultron011" /> </p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ultron011&label=Profile%20views&color=0e75b6&style=flat" alt="ultron011" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github.com/Ultron011/Ultron011/assets/3d-planet.gif" width="120" alt="3D Planet" />
+  <h2>✨ Let's code, learn, and grow together! ✨</h2>
+</div>
+
+---
+
+> Tip: For more 3D/animated SVGs and GIFs, you can upload your own assets to your profile repo and use their links above. You can also use [skillicons.dev](https://skillicons.dev/) for modern tech stack icons.
