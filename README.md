@@ -43,13 +43,8 @@ When I’m not wrestling with models or logic errors, I’m probably:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,fastapi,tensorflow,pytorch,langchain,react,nextjs,git,github,vscode" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,fastapi,tensorflow,pytorch,langchain,react,nextjs,git,github,vscode" margin=0 10px /></a>
 </p>
-
-<p align="center">
-  <sub>Hover for stack names — these icons update dynamically.</sub>
-</p>
-
 
 ---
 
