@@ -44,7 +44,7 @@ When I’m not wrestling with models or logic errors, I’m probably:
 
 <p align="center">
   <a href="https://www.python.org/" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" width="55" style="margin:0 15px;" />
+    <img src="https://skillicons.dev/icons?i=python" width="55" style="margin:0 30px;" />
   </a>
   <a href="https://isocpp.org/" title="C++">
     <img src="https://skillicons.dev/icons?i=cpp" width="55" style="margin:0 15px;" />
