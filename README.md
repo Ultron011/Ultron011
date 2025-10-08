@@ -44,39 +44,39 @@ When I’m not wrestling with models or logic errors, I’m probably:
 
 <p align="center">
   <a href="https://www.python.org/" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" width="55" height="55" style="border-radius:50%; display:inline-block; margin:0 12px;" />
+    <img src="https://skillicons.dev/icons?i=python" width="55" style="margin:0 15px;" />
   </a>
   <a href="https://isocpp.org/" title="C++">
-    <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" style="border-radius:50%; display:inline-block; margin:0 12px;" />
+    <img src="https://skillicons.dev/icons?i=cpp" width="55" style="margin:0 15px;" />
   </a>
   <a href="https://fastapi.tiangolo.com/" title="FastAPI">
-    <img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" style="border-radius:50%; display:inline-block; margin:0 12px;" />
+    <img src="https://skillicons.dev/icons?i=fastapi" width="55" style="margin:0 15px;" />
   </a>
   <a href="https://www.tensorflow.org/" title="TensorFlow">
-    <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" style="border-radius:50%; display:inline-block; margin:0 12px;" />
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="55" style="margin:0 15px;" />
   </a>
   <a href="https://pytorch.org/" title="PyTorch">
-    <img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" style="border-radius:50%; display:inline-block; margin:0 12px;" />
+    <img src="https://skillicons.dev/icons?i=pytorch" width="55" style="margin:0 15px;" />
   </a>
   <a href="https://react.dev/" title="React.js">
-    <img src="https://skillicons.dev/icons?i=react" width="55" height="55" style="border-radius:50%; display:inline-block; margin:0 12px;" />
+    <img src="https://skillicons.dev/icons?i=react" width="55" style="margin:0 15px;" />
   </a>
   <a href="https://nextjs.org/" title="Next.js">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" style="border-radius:50%; display:inline-block; margin:0 12px;" />
+    <img src="https://skillicons.dev/icons?i=nextjs" width="55" style="margin:0 15px;" />
   </a>
   <a href="https://git-scm.com/" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" width="55" height="55" style="border-radius:50%; display:inline-block; margin:0 12px;" />
+    <img src="https://skillicons.dev/icons?i=git" width="55" style="margin:0 15px;" />
   </a>
   <a href="https://github.com/" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="55" height="55" style="border-radius:50%; display:inline-block; margin:0 12px;" />
+    <img src="https://skillicons.dev/icons?i=github" width="55" style="margin:0 15px;" />
   </a>
   <a href="https://code.visualstudio.com/" title="VS Code">
-    <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" style="border-radius:50%; display:inline-block; margin:0 12px;" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="55" style="margin:0 15px;" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Hover over an icon to see its name. Circular icons with proper spacing ⚡</sub>
+  <sub>Hover over an icon to see its name. Nicely spaced for readability ⚡</sub>
 </p>
 
 
