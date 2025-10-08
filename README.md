@@ -1,9 +1,20 @@
 <!-- =============================== -->
-<!-- 🧠 SAURABH KUMAR | GITHUB PROFILE README -->
+<!-- 🌙 SAURABH KUMAR | GITHUB PROFILE README -->
 <!-- =============================== -->
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#ff5555;">Saurabh Kumar</span></h1>
-<h3 align="center">AI Engineer in Training | Competitive Programmer | Overthinker in Python</h3>
+<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 2.8em; background: -webkit-linear-gradient(45deg, #00C9FF, #92FE9D); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  Hey there 👋, I'm Saurabh Kumar
+</h1>
+
+<h3 align="center" style="font-family: 'Fira Code', monospace; color:#a8b2d1; font-weight:400;">
+  AI Enthusiast • Competitive Programmer • Curious Human
+</h3>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00C9FF&center=true&vCenter=true&width=500&lines=Designing+AI+that+learns+to+build+AI.;Breaking+code+to+fix+the+world.;90%25+Caffeine,+10%25+Uncommitted+Git+Changes.">
+</p>
 
 ---
 
@@ -31,12 +42,12 @@ When I’m not wrestling with models or logic errors, I’m probably:
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,fastapi,tensorflow,pytorch,langchain,react,nextjs,git,github,vscode" /></a>
+<p align="center" style="font-family: 'Poppins', sans-serif;">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,fastapi,tensorflow,pytorch,langchain,react,nextjs,git,github,vscode&perline=6" alt="Tech Stack Icons" /></a>
 </p>
 
 <p align="center">
-  <sub>Hover for stack names — these icons update dynamically.</sub>
+  <sub>Hover over icons for tool names. My toolbox keeps evolving ⚙️</sub>
 </p>
 
 ---
@@ -55,15 +66,15 @@ If there’s a new framework, I’ve probably already:
 
 ---
 
-## ⚙️ GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhkumar&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhkumar&show_icons=true&theme=nightowl&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar&theme=nightowl&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkumar&layout=compact&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkumar&layout=compact&theme=nightowl&hide_border=true" height="170" />
 </p>
 
 ---
@@ -100,8 +111,12 @@ If you’re working on something that:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabhkumar&label=Profile+Views&color=ff5555&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=saurabhkumar&label=Profile+Views&color=00C9FF&style=flat-square" alt="Profile views"/>
 </p>
+
+---
+
+<h3 align="center" style="color:#00C9FF;">Thanks for stopping by 🚀</h3>
 
 <!-- =============================== -->
 <!-- END OF README -->
