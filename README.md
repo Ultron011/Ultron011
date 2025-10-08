@@ -1,16 +1,9 @@
-
 <!-- =============================== -->
-<!-- 🌌 SAURABH KUMAR | GITHUB README -->
+<!-- 🧠 SAURABH KUMAR | GITHUB PROFILE README -->
 <!-- =============================== -->
 
-<!-- Typing SVG Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=9A68FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Saurabh+Kumar!;AI+Enthusiast+%7C+Competitive+Programmer+%7C+Code+Therapist;Building+AI+that+builds+the+next+AI.">
-</h1>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<h1 align="center">Hey there 👋, I'm <span style="color:#ff5555;">Saurabh Kumar</span></h1>
+<h3 align="center">AI Engineer in Training | Competitive Programmer | Overthinker in Python</h3>
 
 ---
 
@@ -32,49 +25,45 @@ When I’m not wrestling with models or logic errors, I’m probably:
 - 🧩 Leading the **Competitive Programming Department** at [Programmer’s Paradise](#) (the official coding club of **CSVTU**)  
 - 🧠 Building **Generative AI Agents** with LangChain, LangGraph & CrewAI  
 - 💡 Exploring everything from **LLMs** to **AI reasoning systems**  
-- 🧃 Learning faster than my caffeine wears off  
+- ☕ Learning faster than my caffeine wears off  
 
 ---
 
-## 🧰 The Stack: My Digital Toolbox  
-
-### 🧠 The Brain (Generative AI & AI Agents)
-Caffeinated architect of intelligence — designing systems that argue, collaborate, and occasionally hallucinate for better results.  
-**Languages & Tools:**  
-`Python` • `CrewAI` • `LangChain` • `LangGraph` • `NLP` • `Machine Learning` • `Deep Learning` • `FastAPI`
-
-### ⚡ The Adrenaline (Competitive Programming)
-Weapon of choice: `C++`  
-I breathe STL, dream in O(log n), and occasionally whisper sweet nothings to segmentation faults.
-
-### 🎨 The Side Gig (Frontend)
-When visuals are necessary: `React.js` + `Next.js`  
-✨ Promise: No jQuery (well... almost).
-
----
-
-## 🚀 The Mission: My Grand, Slightly Over-Engineered Goal  
-
-I’m not just here to build AI —  
-I’m here to build **the AI that builds the next AI.**  
-
-Every project I touch is a step toward creating tools that **learn, reason, and maybe complain less than I do.**  
-If there’s a new framework, I’ve probably already:  
-- built a “Hello World”  
-- found the edge cases  
-- and filed a *slightly passive-aggressive* GitHub issue about it.
-
----
-
-## ⚙️ My GitHub Stats
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,fastapi,tensorflow,pytorch,langchain,react,nextjs,git,github,vscode" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
+  <sub>Hover for stack names — these icons update dynamically.</sub>
+</p>
+
+---
+
+## 🚀 The Mission  
+
+I’m not just here to build AI —  
+I’m here to build **the AI that builds the next AI.**
+
+Every project I touch is a step toward creating tools that **learn, reason, and maybe complain less than I do.**
+
+If there’s a new framework, I’ve probably already:  
+- built a “Hello World,”  
+- found the edge cases,  
+- and filed a *slightly passive-aggressive GitHub issue* about it.
+
+---
+
+## ⚙️ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhkumar&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar&theme=radical&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkumar&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
 ---
@@ -110,9 +99,8 @@ If you’re working on something that:
 
 ---
 
-<h3 align="center">🔥 Thanks for scrolling all the way down 🔥</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabhkumar&label=Profile+Views&color=6f42c1&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=saurabhkumar&label=Profile+Views&color=ff5555&style=flat-square" alt="Profile views"/>
 </p>
 
 <!-- =============================== -->
