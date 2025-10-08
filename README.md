@@ -43,52 +43,40 @@ When I’m not wrestling with models or logic errors, I’m probably:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <!-- Python -->
-  <svg width="55" height="55" viewBox="0 0 55 55">
-    <title>Python</title>
-    <image href="https://skillicons.dev/icons?i=python" width="55" height="55" clip-path="circle(50%)"/>
-    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2s" repeatCount="indefinite"/>
-  </svg>
-  <!-- C++ -->
-  <svg width="55" height="55" viewBox="0 0 55 55">
-    <title>C++</title>
-    <image href="https://skillicons.dev/icons?i=cpp" width="55" height="55" clip-path="circle(50%)"/>
-    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.5s" repeatCount="indefinite"/>
-  </svg>
-  <!-- FastAPI -->
-  <svg width="55" height="55" viewBox="0 0 55 55">
-    <title>FastAPI</title>
-    <image href="https://skillicons.dev/icons?i=fastapi" width="55" height="55" clip-path="circle(50%)"/>
-    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3s" repeatCount="indefinite"/>
-  </svg>
-  <!-- TensorFlow -->
-  <svg width="55" height="55" viewBox="0 0 55 55">
-    <title>TensorFlow</title>
-    <image href="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" clip-path="circle(50%)"/>
-    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.2s" repeatCount="indefinite"/>
-  </svg>
-  <!-- PyTorch -->
-  <svg width="55" height="55" viewBox="0 0 55 55">
-    <title>PyTorch</title>
-    <image href="https://skillicons.dev/icons?i=pytorch" width="55" height="55" clip-path="circle(50%)"/>
-    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.7s" repeatCount="indefinite"/>
-  </svg>
-  <!-- React -->
-  <svg width="55" height="55" viewBox="0 0 55 55">
-    <title>React.js</title>
-    <image href="https://skillicons.dev/icons?i=react" width="55" height="55" clip-path="circle(50%)"/>
-    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.4s" repeatCount="indefinite"/>
-  </svg>
-  <!-- Next.js -->
-  <svg width="55" height="55" viewBox="0 0 55 55">
-    <title>Next.js</title>
-    <image href="https://skillicons.dev/icons?i=nextjs" width="55" height="55" clip-path="circle(50%)"/>
-    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3s" repeatCount="indefinite"/>
-  </svg>
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://skillicons.dev/icons?i=python" width="55" style="border-radius:50%; margin:0 10px;" />
+  </a>
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://skillicons.dev/icons?i=cpp" width="55" style="border-radius:50%; margin:0 10px;" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="55" style="border-radius:50%; margin:0 10px;" />
+  </a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow">
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="55" style="border-radius:50%; margin:0 10px;" />
+  </a>
+  <a href="https://pytorch.org/" title="PyTorch">
+    <img src="https://skillicons.dev/icons?i=pytorch" width="55" style="border-radius:50%; margin:0 10px;" />
+  </a>
+  <a href="https://react.dev/" title="React.js">
+    <img src="https://skillicons.dev/icons?i=react" width="55" style="border-radius:50%; margin:0 10px;" />
+  </a>
+  <a href="https://nextjs.org/" title="Next.js">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="55" style="border-radius:50%; margin:0 10px;" />
+  </a>
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" width="55" style="border-radius:50%; margin:0 10px;" />
+  </a>
+  <a href="https://github.com/" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" width="55" style="border-radius:50%; margin:0 10px;" />
+  </a>
+  <a href="https://code.visualstudio.com/" title="VS Code">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55" style="border-radius:50%; margin:0 10px;" />
+  </a>
 </p>
 
 <p align="center">
-  <sub>Hover an icon to see its name. Circular floating effect for a lively yet subtle vibe ⚡</sub>
+  <sub>Hover an icon to see its name. Circular icons for a clean modern vibe ⚡</sub>
 </p>
 
 
