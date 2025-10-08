@@ -42,13 +42,55 @@ When I’m not wrestling with models or logic errors, I’m probably:
 
 ## 🧰 Tech Stack
 
-<p align="center" style="font-family: 'Poppins', sans-serif;">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,fastapi,tensorflow,pytorch,langchain,react,nextjs,git,github,vscode&perline=6" alt="Tech Stack Icons" /></a>
+<p align="center">
+  <!-- Python -->
+  <svg width="55" height="55" viewBox="0 0 55 55">
+    <title>Python</title>
+    <image href="https://skillicons.dev/icons?i=python" width="55" height="55" clip-path="circle(50%)"/>
+    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2s" repeatCount="indefinite"/>
+  </svg>
+  <!-- C++ -->
+  <svg width="55" height="55" viewBox="0 0 55 55">
+    <title>C++</title>
+    <image href="https://skillicons.dev/icons?i=cpp" width="55" height="55" clip-path="circle(50%)"/>
+    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.5s" repeatCount="indefinite"/>
+  </svg>
+  <!-- FastAPI -->
+  <svg width="55" height="55" viewBox="0 0 55 55">
+    <title>FastAPI</title>
+    <image href="https://skillicons.dev/icons?i=fastapi" width="55" height="55" clip-path="circle(50%)"/>
+    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3s" repeatCount="indefinite"/>
+  </svg>
+  <!-- TensorFlow -->
+  <svg width="55" height="55" viewBox="0 0 55 55">
+    <title>TensorFlow</title>
+    <image href="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" clip-path="circle(50%)"/>
+    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.2s" repeatCount="indefinite"/>
+  </svg>
+  <!-- PyTorch -->
+  <svg width="55" height="55" viewBox="0 0 55 55">
+    <title>PyTorch</title>
+    <image href="https://skillicons.dev/icons?i=pytorch" width="55" height="55" clip-path="circle(50%)"/>
+    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.7s" repeatCount="indefinite"/>
+  </svg>
+  <!-- React -->
+  <svg width="55" height="55" viewBox="0 0 55 55">
+    <title>React.js</title>
+    <image href="https://skillicons.dev/icons?i=react" width="55" height="55" clip-path="circle(50%)"/>
+    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.4s" repeatCount="indefinite"/>
+  </svg>
+  <!-- Next.js -->
+  <svg width="55" height="55" viewBox="0 0 55 55">
+    <title>Next.js</title>
+    <image href="https://skillicons.dev/icons?i=nextjs" width="55" height="55" clip-path="circle(50%)"/>
+    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3s" repeatCount="indefinite"/>
+  </svg>
 </p>
 
 <p align="center">
-  <sub>Hover over icons for tool names. My toolbox keeps evolving ⚙️</sub>
+  <sub>Hover an icon to see its name. Circular floating effect for a lively yet subtle vibe ⚡</sub>
 </p>
+
 
 ---
 
