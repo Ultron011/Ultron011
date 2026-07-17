@@ -1,119 +1,76 @@
-<!-- =============================== -->
-<!-- 🌙 SAURABH KUMAR | GITHUB PROFILE README -->
-<!-- =============================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   SAURABH KUMAR · @Ultron011 · terminal-style profile README    -->
+<!--   ASCII portrait auto-generated from Profile.jpeg               -->
+<!--   Stats in the SVG refresh weekly via .github/workflows/stats   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 2.8em; background: -webkit-linear-gradient(45deg, #00C9FF, #92FE9D); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  Hey there 👋, I'm Saurabh Kumar
-</h1>
+<div align="center">
+  <a href="https://github.com/Ultron011">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg" />
+      <img alt="Saurabh Kumar — final-year AI undergrad · CP Department Head · builder of agents" src="./light_mode.svg" />
+    </picture>
+  </a>
+</div>
 
-<h3 align="center" style="font-family: 'Fira Code', monospace; color:#a8b2d1; font-weight:400;">
-  AI Enthusiast • Competitive Programmer • Curious Human
-</h3>
+<br/>
 
----
+<div align="center">
+  <a href="https://github.com/Ultron011">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Final-year+CSE+(AI)+%40+CSVTU;Building+agents+that+build+things;CP+Department+Head+%40+Programmer%27s+Paradise;90%25+caffeine%2C+10%25+uncommitted+changes" alt="Final-year CSE (AI) @ CSVTU · Building agents that build things · CP Department Head @ Programmer's Paradise · 90% caffeine, 10% uncommitted changes" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00C9FF&center=true&vCenter=true&width=500&lines=Designing+AI+that+learns+to+build+AI.;Breaking+code+to+fix+the+world.;90%25+Caffeine,+10%25+Uncommitted+Git+Changes.">
-</p>
+## `$ ls -la ~/featured`
 
----
+- 🤖 [**Maitri-AI**](https://github.com/Ultron011/Maitri-AI) <img alt="stars" src="https://img.shields.io/github/stars/Ultron011/Maitri-AI?style=flat-square" /> <img alt="top language" src="https://img.shields.io/github/languages/top/Ultron011/Maitri-AI?style=flat-square" />
+- 📚 [**AI-Study-Buddy**](https://github.com/Ultron011/AI-Study-Buddy) <img alt="stars" src="https://img.shields.io/github/stars/Ultron011/AI-Study-Buddy?style=flat-square" /> <img alt="top language" src="https://img.shields.io/github/languages/top/Ultron011/AI-Study-Buddy?style=flat-square" />
+- 🩺 [**MediNotes-Pro**](https://github.com/Ultron011/MediNotes-Pro) <img alt="stars" src="https://img.shields.io/github/stars/Ultron011/MediNotes-Pro?style=flat-square" /> <img alt="top language" src="https://img.shields.io/github/languages/top/Ultron011/MediNotes-Pro?style=flat-square" />
+- 🔍 [**CodeLens**](https://github.com/Ultron011/CodeLens) <img alt="stars" src="https://img.shields.io/github/stars/Ultron011/CodeLens?style=flat-square" /> <img alt="top language" src="https://img.shields.io/github/languages/top/Ultron011/CodeLens?style=flat-square" />
 
-## 🧑‍💻 About Me  
+## `$ gh status`
 
-A caffeine-driven third-year **B.Tech (Hons.) in Computer Science & Engineering (AI)** student — mastering the noble art of making computers smarter, faster, and occasionally more dramatic than humans.
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ultron011&theme=github_dark" />
+    <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ultron011&theme=github" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ultron011&theme=github_dark" />
+    <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ultron011&theme=github" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ultron011&theme=github-dark-blue&hide_border=true" />
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=Ultron011&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ultron011&theme=github_dark" />
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ultron011&theme=github" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ultron011&theme=github_dark" />
+    <img alt="Most committed language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ultron011&theme=github" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ultron011&theme=github_dark&utcOffset=5.5" />
+    <img alt="Productive time (IST)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ultron011&theme=github&utcOffset=5.5" />
+  </picture>
+</div>
 
-I specialize in **accidentally breaking production** and then **heroically fixing it** (in a local branch, of course).
+## `$ ping saurabh`
 
-When I’m not wrestling with models or logic errors, I’m probably:  
-- 💻 Solving competitive programming problems — because debugging the real world is harder than solving a 2-pointer problem.  
-- 🤖 Building generative AI systems — because teaching a machine to do my work is my unofficial retirement plan.  
-- ⚡ Surviving on 90% caffeine and 10% uncommitted Git changes.  
-
----
-
-### 🎓 What I’m Up To
-
-- 🧩 Leading the **Competitive Programming Department** at [Programmer’s Paradise](#) (the official coding club of **CSVTU**)  
-- 🧠 Building **Generative AI Agents** with LangChain, LangGraph & CrewAI  
-- 💡 Exploring everything from **LLMs** to **AI reasoning systems**  
-- ☕ Learning faster than my caffeine wears off  
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,cpp,fastapi,tensorflow,pytorch,langchain,react,nextjs,git,github,vscode" margin=0 10px /></a>
-</p>
-
----
-
-## 🚀 The Mission  
-
-I’m not just here to build AI —  
-I’m here to build **the AI that builds the next AI.**
-
-Every project I touch is a step toward creating tools that **learn, reason, and maybe complain less than I do.**
-
-If there’s a new framework, I’ve probably already:  
-- built a “Hello World,”  
-- found the edge cases,  
-- and filed a *slightly passive-aggressive GitHub issue* about it.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhkumar&show_icons=true&theme=nightowl&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkumar&theme=nightowl&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkumar&layout=compact&theme=nightowl&hide_border=true" height="170" />
-</p>
+<div align="center">
+  <a href="https://github.com/Ultron011"><img alt="GitHub" src="https://img.shields.io/badge/github-Ultron011-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saurabh-kumar-8642262a0/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-saurabh--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/saurabhkumarsingh0/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-saurabhkumarsingh0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:saurabhkrsingh7992388365@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-saurabhkrsingh7992388365-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 ---
 
-## 💭 Dream Goal  
-
-> To contribute meaningfully to Artificial Intelligence —  
-> or at least be the one who finally teaches an LLM to write a perfectly centered CSS button.
-
----
-
-## 🤝 Let’s Collaborate  
-
-If you’re working on something that:
-- makes machines a little smarter,  
-- needs a competitive programmer who measures time in test cases, or  
-- just wants to rant about CSS centering —  
-
-👉 **Hit me up!**
-
-📫 **Connect with me:**  
-- 💼 [LinkedIn](#)  
-- 📧 [Email](#)  
-- 📸 [Instagram (optional)](#)
-
----
-
-## ⚙️ Current Status  
-
-> 🧃 Running on caffeine  
-> 💻 Experimenting with AI Agents  
-> 🧩 Occasionally achieving a bug-free compile (once per lunar cycle)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabhkumar&label=Profile+Views&color=00C9FF&style=flat-square" alt="Profile views"/>
-</p>
-
----
-
-<h3 align="center" style="color:#00C9FF;">Thanks for stopping by 🚀</h3>
-
-<!-- =============================== -->
-<!-- END OF README -->
-<!-- =============================== -->
+<div align="center">
+  <code>"Build the AI that builds the next AI."</code>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Ultron011&label=visitors&style=for-the-badge&color=0e75b6" alt="profile views" />
+</div>
